@@ -1,0 +1,14 @@
+﻿  源.c
+d:\visual stdio 2017\二叉树\二叉树\源.c(24): warning C4013: “malloc”未定义；假设外部返回 int
+d:\visual stdio 2017\二叉树\二叉树\源.c(85): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+d:\visual stdio 2017\二叉树\二叉树\源.c(109): warning C4098: “InsertNode”:“void”函数返回值
+d:\visual stdio 2017\二叉树\二叉树\源.c(149): warning C4013: “system”未定义；假设外部返回 int
+d:\visual stdio 2017\二叉树\二叉树\源.c(232): warning C4013: “exit”未定义；假设外部返回 int
+d:\visual stdio 2017\二叉树\二叉树\源.c(162): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\visual stdio 2017\二叉树\二叉树\源.c(166): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\visual stdio 2017\二叉树\二叉树\源.c(242): warning C4047: “函数”:“FILE *”与“FILE **”的间接级别不同
+d:\visual stdio 2017\二叉树\二叉树\源.c(242): warning C4024: “menu”: 形参和实参 1 的类型不同
+  二叉树.vcxproj -> D:\Visual Stdio 2017\二叉树\Debug\二叉树.exe
+  二叉树.vcxproj -> D:\Visual Stdio 2017\二叉树\Debug\二叉树.pdb (Partial PDB)
