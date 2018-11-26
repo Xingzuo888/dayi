@@ -1,0 +1,4 @@
+﻿  源.c
+d:\visual stdio2015\projects\考试2\考试2\源.c(10): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+  考试2.vcxproj -> D:\Visual Stdio2015\Projects\考试2\Debug\考试2.exe
+  考试2.vcxproj -> D:\Visual Stdio2015\Projects\考试2\Debug\考试2.pdb (Full PDB)

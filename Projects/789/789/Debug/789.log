@@ -1,0 +1,6 @@
+﻿  源.c
+d:\visual stdio2015\projects\789\789\源.c(23): warning C4013: “malloc”未定义；假设外部返回 int
+d:\visual stdio2015\projects\789\789\源.c(107): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  789.vcxproj -> D:\Visual Stdio2015\Projects\789\Debug\789.exe
+  789.vcxproj -> D:\Visual Stdio2015\Projects\789\Debug\789.pdb (Partial PDB)

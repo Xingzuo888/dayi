@@ -1,0 +1,4 @@
+﻿  源.c
+c:\users\administrator\documents\visual studio 2015\projects\耍\耍\源.c(66): warning C4013: “Fun”未定义；假设外部返回 int
+  耍.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\耍\Debug\耍.exe
+  耍.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\耍\Debug\耍.pdb (Full PDB)

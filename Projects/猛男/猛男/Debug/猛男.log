@@ -1,0 +1,6 @@
+﻿  源.c
+d:\visual stdio2015\projects\猛男\猛男\源.c(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\visual stdio2015\projects\猛男\猛男\源.c(41): warning C4101: “i”: 未引用的局部变量
+  猛男.vcxproj -> D:\Visual Stdio2015\Projects\猛男\Debug\猛男.exe
+  猛男.vcxproj -> D:\Visual Stdio2015\Projects\猛男\Debug\猛男.pdb (Full PDB)

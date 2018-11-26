@@ -1,0 +1,13 @@
+﻿  源.c
+c:\users\administrator\documents\visual studio 2015\projects\数据\数据\源.c(59): warning C4013: “system”未定义；假设外部返回 int
+c:\users\administrator\documents\visual studio 2015\projects\数据\数据\源.c(102): warning C4013: “exit”未定义；假设外部返回 int
+c:\users\administrator\documents\visual studio 2015\projects\数据\数据\源.c(68): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\administrator\documents\visual studio 2015\projects\数据\数据\源.c(74): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\administrator\documents\visual studio 2015\projects\数据\数据\源.c(76): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\administrator\documents\visual studio 2015\projects\数据\数据\源.c(42): warning C4716: “DeleteList”: 必须返回一个值
+c:\users\administrator\documents\visual studio 2015\projects\数据\数据\源.c(48): warning C4716: “LocateList”: 必须返回一个值
+  数据.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\数据\Debug\数据.exe
+  数据.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\数据\Debug\数据.pdb (Full PDB)

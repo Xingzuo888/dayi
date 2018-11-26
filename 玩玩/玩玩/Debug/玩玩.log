@@ -1,0 +1,13 @@
+﻿  源.c
+d:\visual stdio2015\玩玩\玩玩\源.c(49): warning C4047: “函数”:“int *”与“int (*)[10]”的间接级别不同
+d:\visual stdio2015\玩玩\玩玩\源.c(49): warning C4024: “sort1”: 形参和实参 1 的类型不同
+d:\visual stdio2015\玩玩\玩玩\源.c(50): warning C4047: “函数”:“int *”与“int (*)[10]”的间接级别不同
+d:\visual stdio2015\玩玩\玩玩\源.c(50): warning C4024: “play”: 形参和实参 1 的类型不同
+d:\visual stdio2015\玩玩\玩玩\源.c(51): warning C4047: “函数”:“int *”与“int (*)[10]”的间接级别不同
+d:\visual stdio2015\玩玩\玩玩\源.c(51): warning C4024: “sort2”: 形参和实参 1 的类型不同
+d:\visual stdio2015\玩玩\玩玩\源.c(52): warning C4047: “函数”:“int *”与“int (*)[10]”的间接级别不同
+d:\visual stdio2015\玩玩\玩玩\源.c(52): warning C4024: “play”: 形参和实参 1 的类型不同
+d:\visual stdio2015\玩玩\玩玩\源.c(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  玩玩.vcxproj -> D:\Visual Stdio2015\玩玩\Debug\玩玩.exe
+  玩玩.vcxproj -> D:\Visual Stdio2015\玩玩\Debug\玩玩.pdb (Full PDB)

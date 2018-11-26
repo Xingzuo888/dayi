@@ -1,0 +1,8 @@
+﻿  源.c
+c:\users\administrator\documents\visual studio 2015\projects\课堂1\1\源.c(8): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\administrator\documents\visual studio 2015\projects\课堂1\1\源.c(8): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\administrator\documents\visual studio 2015\projects\课堂1\1\源.c(8): note: 请考虑在格式字符串中使用“%Id”
+  c:\users\administrator\documents\visual studio 2015\projects\课堂1\1\源.c(8): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\administrator\documents\visual studio 2015\projects\课堂1\1\源.c(6): warning C4101: “u”: 未引用的局部变量
+  1.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\课堂1\x64\Debug\1.exe
+  1.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\课堂1\x64\Debug\1.pdb (Full PDB)

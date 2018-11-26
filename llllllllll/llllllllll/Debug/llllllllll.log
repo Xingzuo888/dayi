@@ -1,0 +1,7 @@
+﻿  源.c
+d:\visual stdio2015\llllllllll\llllllllll\源.c(17): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+d:\visual stdio2015\llllllllll\llllllllll\源.c(19): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(116): note: 参见“asctime”的声明
+  llllllllll.vcxproj -> D:\Visual Stdio2015\llllllllll\Debug\llllllllll.exe
+  llllllllll.vcxproj -> D:\Visual Stdio2015\llllllllll\Debug\llllllllll.pdb (Full PDB)

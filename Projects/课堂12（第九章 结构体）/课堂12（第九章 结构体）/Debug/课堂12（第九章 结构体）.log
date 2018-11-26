@@ -1,0 +1,6 @@
+﻿  源.c
+c:\users\administrator\documents\visual studio 2015\projects\课堂12（第九章 结构体）\课堂12（第九章 结构体）\源.c(21): warning C4013: “malloc”未定义；假设外部返回 int
+c:\users\administrator\documents\visual studio 2015\projects\课堂12（第九章 结构体）\课堂12（第九章 结构体）\源.c(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  课堂12（第九章 结构体）.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\课堂12（第九章 结构体）\Debug\课堂12（第九章 结构体）.exe
+  课堂12（第九章 结构体）.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\课堂12（第九章 结构体）\Debug\课堂12（第九章 结构体）.pdb (Full PDB)

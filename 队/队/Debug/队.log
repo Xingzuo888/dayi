@@ -1,0 +1,5 @@
+﻿  源.c
+d:\visual stdio2015\队\队\源.c(68): warning C4013: “malloc”未定义；假设外部返回 int
+d:\visual stdio2015\队\队\源.c(98): warning C4013: “free”未定义；假设外部返回 int
+  队.vcxproj -> D:\Visual Stdio2015\队\Debug\队.exe
+  队.vcxproj -> D:\Visual Stdio2015\队\Debug\队.pdb (Full PDB)
